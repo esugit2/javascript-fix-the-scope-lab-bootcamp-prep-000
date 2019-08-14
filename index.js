@@ -1,7 +1,14 @@
+<<<<<<< HEAD
   var animal = 'dog'
 
 function myAnimal() {
 
+=======
+
+
+function myAnimal() {
+  var animal = "cat"
+>>>>>>> 4f3863b8d03d369e4799b3507f6783966a7380cf
   return animal
 }
 
@@ -14,7 +21,11 @@ function yourAnimal() {
 }
 
 function add2(n) {
+<<<<<<< HEAD
   const two = 2;
+=======
+  const two = 2
+>>>>>>> 4f3863b8d03d369e4799b3507f6783966a7380cf
   return n + two
 
   // Feel free to move things around!
